@@ -1,6 +1,7 @@
 # Hi there, i'm Vihaan Vinoth 👋 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6MxtXG8DQVE4ffZ3AnaZZQ?logo=youtube&logoColor=red&style=for-the-badge)
+<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f81eacb-6f50-4962-8d8c-7b4471782fa2/deploy-status)](https://app.netlify.com/sites/htmltastic/deploys)
 ## I'm a Developer & Youtuber
 - 🌱 I’m currently learning HTML, CSS and Javascript
