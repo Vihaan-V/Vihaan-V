@@ -1,7 +1,8 @@
 ![VV](https://user-images.githubusercontent.com/105495633/169724358-9f25cce8-d421-4a5f-8a26-c5469df2a2cb.png)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f81eacb-6f50-4962-8d8c-7b4471782fa2/deploy-status)](https://web-tastic.netlify.app/)
-Try my code editor called Web-tastic!
+Try my code editor called Web-tastic by clicking the netlify button!
+
 ---
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - ✌️ 2022 Goals: Study all my web developing courses
